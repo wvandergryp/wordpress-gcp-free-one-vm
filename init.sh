@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash 
 
 echo "Allocating a memory swap file..."
 sudo fallocate -l 1G /swapfile
